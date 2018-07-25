@@ -20,7 +20,7 @@ msgstr ""
 "Hier kannst du aktivieren, dass dein Knoten automatisch die SSID auf die "
 "Offline-SSID ändert, wenn keine Verbindung zu den Freifunk Server besteht.<br><br>"
 "Das verhindert, dass Client-Geräte sich mit einem Knoten verbinden, an dem es "
-"derzeit keine nutzbare Interverbindung gibt.<br>
+"derzeit keine nutzbare Interverbindung gibt.<br>"
 "Wenn in dieser Firmware der Suffix auf 'nodename' gestellt ist, dann kann man "
 "leichter anhand der dann gesendeten Offline-SSID nach einem fehlerhaften Gerät "
 "suchen."
